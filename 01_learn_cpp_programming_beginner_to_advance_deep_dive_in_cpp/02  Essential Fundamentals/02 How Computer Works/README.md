@@ -25,4 +25,9 @@
 - Low voltage taken as 0 & high voltage taken as 1
 - Chip have pins
   - Through the pins pass low/high voltage
-  -
+  - 8 bits
+  - 00000000
+  - 00000001
+  - 0 & 1 's are instructions
+  - Based on binary System
+  - Each line by instructions
