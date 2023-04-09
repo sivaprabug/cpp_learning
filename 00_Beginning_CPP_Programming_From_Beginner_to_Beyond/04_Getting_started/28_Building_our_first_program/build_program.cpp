@@ -5,4 +5,4 @@ int main(){
     std::cin>>favorite_number;
     std::cout<<"Amazing that my favorite number too!"<< std::endl;
     return 0;
-}10
+}
