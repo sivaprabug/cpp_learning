@@ -1,5 +1,6 @@
 # include <iostream>
 int main(){
-    std::cout<<"Enter your favorite number between 1 and 100 : ";
+    std::cout<<"*******************************  \n Hi Sivag \n******************************* ";
+    std::cout<<"*******************************  \n Hi Sivag \n******************************* ";
     return 0;
 }
